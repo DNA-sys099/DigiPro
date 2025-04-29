@@ -312,15 +312,14 @@ def show_product_creator():
         )
     
     # Show format-specific options based on selection
+    # Format selection is handled by the card clicks above
+    
     if digital_course:
         show_course_creator()
     elif done_for_you:
         show_service_creator()
     elif templates:
         show_template_creator()
-    
-    if format_type == "Digital Course":
-        show_course_creator()
 
 def show_course_creator():
     st.subheader("Course Structure")
