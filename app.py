@@ -10,7 +10,7 @@ import json
 
 # Set page config
 st.set_page_config(
-    page_title='Digital Product Creator',
+    page_title='DigiPro',
     layout='wide',
     initial_sidebar_state='collapsed'
 )

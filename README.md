@@ -1,4 +1,4 @@
-# Digital Product Creator
+# DigiPro
 
 A modern, AI-powered tool for creating and launching digital products on Whop. Built with Streamlit and Python.
 
@@ -13,8 +13,8 @@ A modern, AI-powered tool for creating and launching digital products on Whop. B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digital-product-creator.git
-cd digital-product-creator
+git clone https://github.com/yourusername/DigiPro.git
+cd DigiPro
 ```
 
 2. Install dependencies:
