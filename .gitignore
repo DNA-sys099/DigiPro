@@ -36,9 +36,6 @@ venv.bak/
 # Environment variables
 .env
 
-# Streamlit
-.streamlit/
-
 # OS
 .DS_Store
 Thumbs.db

@@ -126,12 +126,7 @@ def create_ui():
     else:
         show_whop_setup()
 
-    if page == "1. UVZ Analysis":
-        show_uvz_analysis_page()
-    elif page == "2. Product Creation":
-        show_product_creation_page()
-    elif page == "3. Whop Setup":
-        show_whop_setup_page()
+    # Navigation is handled by the option_menu above
 
 def show_dashboard():
     st.title('Digital Product Creator')

@@ -1,5 +1,7 @@
 # DigiPro
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digipro.streamlit.app)
+
 A modern, AI-powered tool for creating and launching digital products on Whop. Built with Streamlit and Python.
 
 ## Features
